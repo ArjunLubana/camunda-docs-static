@@ -58,7 +58,7 @@ Download the Camunda Modeler from [the download page](https://camunda.com/downlo
 
 After downloading the Modeler, simply unzip the download in a folder of your choice.
 
-After you have successfully unpacked the zip, run `camunda-modeler.exe` (for Windows users), `camunda-modeler.app` (for Mac users), or `camunda-modeler.sh` (for Linux users).
+After you have successfully unpacked the zip, run `camunda-modeler.exe` (for Windows users), `camunda-modeler.app` (for Mac users), or `camunda-modeler` (for Linux users).
 
 {{< note title="Next Step" class="info" >}}
 Once you've installed the Camunda Platform and the Camunda Modeler, you can move to the next step to [model and execute your first process](/get-started/quick-start/service-task/).
